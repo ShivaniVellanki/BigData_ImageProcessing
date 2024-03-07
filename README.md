@@ -1,5 +1,5 @@
 # BigData_ImageProcessing
-The project merges big data with image/video processing in sports, leveraging HD cameras and AI to enhance strategy, player evaluation, and decision-making. It offers insights into using CNNs and object detection for in-depth sports analysis, showcasing future potentials in sports analytics.
+This repository contains the research documentation of how big data merges with image/video processing in sports, leveraging HD cameras and AI to enhance strategy, player evaluation, and decision-making. It offers insights into using CNNs and object detection for in-depth sports analysis, showcasing future potentials in sports analytics.
 
 The "Big Data in Image Processing and Video Analysis" project, combines big data analysis with image and video processing, focusing on sports.Project explains how data is collected using more than 100 high-definition cameras and various sensors to capture every detail of the games. The project shows how analyzing this data in real-time can change the way sports teams plan their strategies, improve how they evaluate players, and make better tactical decisions.
 
